@@ -1,0 +1,17 @@
+[
+    {
+        "nama": "Example Variable 1",
+        "faktor": "Core",
+        "persentase": 42
+    },
+    {
+        "nama": "Example Variable 2",
+        "faktor": "Secondary",
+        "persentase": 60
+    },
+    {
+        "nama": "Baru",
+        "faktor": "Core",
+        "persentase": 30
+    }
+]
