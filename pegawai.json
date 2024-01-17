@@ -1,0 +1,18 @@
+[
+    {
+        "id_pegawai": "P001",
+        "nama": "John Doe"
+    },
+    {
+        "id_pegawai": "P002",
+        "nama": "Jane Smith"
+    },
+    {
+        "id_pegawai": "P003",
+        "nama": "Bob Johnson"
+    },
+    {
+        "id_pegawai": "P004",
+        "nama": "Pegawai Baru"
+    }
+]

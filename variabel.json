@@ -1,17 +1,17 @@
 [
     {
-        "nama": "Example Variable 1",
+        "nama": "Administrasi",
         "faktor": "Core",
-        "persentase": 42
+        "persentase": 40
     },
     {
-        "nama": "Example Variable 2",
+        "nama": "Praktek",
+        "faktor": "Core",
+        "persentase": 30
+    },
+    {
+        "nama": "Kesehatan",
         "faktor": "Secondary",
-        "persentase": 60
-    },
-    {
-        "nama": "Baru",
-        "faktor": "Core",
         "persentase": 30
     }
 ]

@@ -1,0 +1,17 @@
+[
+    {
+      "variabel": "Administrasi",
+      "kode": "A001",
+      "nama": "Example 1",
+      "faktor": "Core",
+      "standar": 50
+    },
+    {
+      "variabel": "Praktek",
+      "kode": "B002",
+      "nama": "Example 2",
+      "faktor": "Secondary",
+      "standar": 75
+    }
+  ]
+  

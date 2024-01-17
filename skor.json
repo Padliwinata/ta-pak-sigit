@@ -1,0 +1,12 @@
+[
+    {
+        "id_pegawai": "P003",
+        "variabel": "Example 1",
+        "skor": 20
+    },
+    {
+        "id_pegawai": "P003",
+        "variabel": "Example 2",
+        "skor": 50
+    }
+]
